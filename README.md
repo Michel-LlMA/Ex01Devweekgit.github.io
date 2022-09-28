@@ -1,2 +1,2 @@
 # Devweekgit.github.io
-Exercício 02
+Exercício 03
