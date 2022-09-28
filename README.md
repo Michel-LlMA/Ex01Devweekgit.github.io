@@ -1,2 +1,2 @@
-# Ex01Devweekgit.github.io
-Exercício 01
+# Devweekgit.github.io
+Exercício 02
